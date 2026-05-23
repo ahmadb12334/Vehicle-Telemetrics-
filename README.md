@@ -1,6 +1,6 @@
 # Telemetrics Monitoring System
 
-A real-time telematics monitoring prototype that simulates vehicle telemetry using an Arduino, processes the data in Python, and uploads alert events to Firebase for cloud-based monitoring.
+A real-time telemetrics monitoring prototype that simulates vehicle telemetry using an Arduino, processes the data in Python, and uploads alert events to Firebase for cloud-based monitoring.
 
 ---
 
@@ -195,7 +195,7 @@ FIREBASE_URL = "https://your-project-id-default-rtdb.firebaseio.com"
 ## 4. Run Python Script
 
 ```bash
-python telematicScript.py
+python telemetricScript.py
 ```
 
 ---
